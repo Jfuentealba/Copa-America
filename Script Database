@@ -148,7 +148,6 @@ CREATE TABLE EVENTOS(
     ID INT,
     ID_P INT,
     ID_J1 INT,
-    ID_A INT,
     ID_TE INT,
     ID_S INT,
     MINUTO DATE,
